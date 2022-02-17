@@ -6086,10 +6086,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "bambi",
+		"player2": "spooky",
 		"player3": "gf",
-		"song": "Corn-Theft",
-		"stage": "farmland",
+		"song": "south",
+		"stage": "stage",
 		"needsVoices": true,
 		"sections": 1,
 		"validScore": true,
