@@ -3233,10 +3233,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "bambi",
+		"player2": "dad",
 		"player3": "gf",
-		"song": "Blocked",
-		"stage": "farmland",
+		"song": "spookeez",
+		"stage": "stage",
 		"needsVoices": true,
 		"sections": 1,
 		"validScore": true,
