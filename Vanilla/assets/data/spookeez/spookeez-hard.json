@@ -2,7 +2,7 @@
 	"song": {
 		"player1": "bf",
 		"sectionLengths": [],
-		"player2": "bambi",
+		"player2": "dad",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -6110,10 +6110,10 @@
 			}
 		],
 		"player3": "gf",
-		"song": "Blocked",
+		"song": "spookeez",
 		"validScore": true,
 		"sections": 1,
-		"stage": "farmland",
+		"stage": "stage",
 		"needsVoices": true,
 		"bpm": 225,
 		"speed": 3.1
