@@ -11256,10 +11256,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "dave",
+		"player2": "dad",
 		"player3": "gf",
-		"song": "House",
-		"stage": "davehouse",
+		"song": "Bopeebo",
+		"stage": "stage",
 		"needsVoices": true,
 		"sections": 477,
 		"validScore": true,
