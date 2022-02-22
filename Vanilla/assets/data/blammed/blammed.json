@@ -11544,10 +11544,10 @@
 			}
 		],
 		"player3": "gf",
-		"song": "stage",
+		"song": "blammed",
 		"validScore": true,
 		"sections": 1,
-		"stage": "stage",
+		"stage": "philly",
 		"needsVoices": true,
 		"bpm": 300,
 		"speed": 5.99999999999999
