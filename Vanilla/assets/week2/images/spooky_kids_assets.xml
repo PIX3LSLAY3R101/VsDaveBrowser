@@ -17,7 +17,6 @@
 	<SubTexture name="spooky dance idle0012" x="1368" y="0" width="324" height="293" frameX="-9" frameY="0" frameWidth="351" frameHeight="293"/>
 	<SubTexture name="spooky dance idle0013" x="1368" y="0" width="324" height="293" frameX="-9" frameY="0" frameWidth="351" frameHeight="293"/>
 	<SubTexture name="spooky dance idle0014" x="1368" y="0" width="324" height="293" frameX="-9" frameY="0" frameWidth="351" frameHeight="293"/>
-	<SubTexture name="spooky dance idle0015" x="1368" y="0" width="324" height="293" frameX="-9" frameY="0" frameWidth="351" frameHeight="293"/>
 	<SubTexture name="spooky DOWN note0000" x="1692" y="0" width="247" height="239" pivotX="-823.45" pivotY="3323.35" frameX="0" frameY="-8" frameWidth="251" frameHeight="247"/>
 	<SubTexture name="spooky DOWN note0001" x="1692" y="0" width="247" height="239" frameX="0" frameY="-8" frameWidth="251" frameHeight="247"/>
 	<SubTexture name="spooky DOWN note0002" x="0" y="293" width="245" height="243" frameX="-1" frameY="-4" frameWidth="251" frameHeight="247"/>
