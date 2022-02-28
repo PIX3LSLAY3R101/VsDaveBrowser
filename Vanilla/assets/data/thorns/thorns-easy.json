@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "bf-pixel",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -4074,7 +4074,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "senpai",
+		"player2": "spirit",
 		"gfVersion": "gf",
 		"song": "thorns",
 		"arrowSkin": "",
