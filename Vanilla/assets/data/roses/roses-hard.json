@@ -4080,7 +4080,7 @@
 		"player3": null,
 		"song": "roses",
 		"arrowSkin": "",
-		"needsVoices": true,
+		"needsVoices": false,
 		"validScore": true,
 		"stage": "school",
 		"bpm": 188,
